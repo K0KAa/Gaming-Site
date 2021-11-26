@@ -2,8 +2,8 @@ import React from 'react'
 
 function SocialMedia() {
     return (
-        <div>
-            
+        <div style={{display:'flex'}}>
+            COMMING SOON
         </div>
     )
 }
