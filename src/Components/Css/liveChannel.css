@@ -1,0 +1,8 @@
+.livetext {
+    margin-left: 30px;
+}
+.live{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+}

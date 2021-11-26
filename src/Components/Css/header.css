@@ -1,0 +1,10 @@
+.header {
+    height: 250px;
+    margin: 0 10px 0 10px;
+    background-image: url("../logo.jpg");
+    background-position-y: -350px;
+    background-attachment:fixed;
+    background-size:cover;
+    border-bottom-right-radius: 150px;
+    border-top-left-radius: 150px;
+}

@@ -1,0 +1,18 @@
+.headerSocial {
+    padding-left: 65%;
+    margin-left: 10px;
+    margin-right: 20%;
+    height: 40%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: groove cyan;
+}
+
+.headerSocialIcons {
+    font-size: 20px;
+}
+.headerSocialIcons:hover {
+    transition: 0.2s ease-in-out;
+    color: blue;
+}
